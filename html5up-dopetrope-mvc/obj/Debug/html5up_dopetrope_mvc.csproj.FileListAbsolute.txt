@@ -1,0 +1,108 @@
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\html5up_dopetrope_mvc.dll.config
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\html5up_dopetrope_mvc.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\html5up_dopetrope_mvc.pdb
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.SqlServer.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Newtonsoft.Json.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Net.Http.Formatting.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Helpers.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.WebHost.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Mvc.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Razor.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Razor.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.SqlServer.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Helpers.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Mvc.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Razor.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Razor.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Newtonsoft.Json.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Net.Http.Formatting.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.WebHost.xml
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\zh-Hant\System.Web.Http.resources.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\obj\Debug\html5up_dopetrope_mvc.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\obj\Debug\html5up_dopetrope_mvc.pdb
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Antlr3.Runtime.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Optimization.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\WebGrease.dll
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Antlr3.Runtime.pdb
+c:\users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Optimization.xml
+C:\Users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Providers.dll
+C:\Users\benson\documents\visual studio 2013\Projects\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Providers.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\html5up_dopetrope_mvc.dll.config
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\html5up_dopetrope_mvc.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\html5up_dopetrope_mvc.pdb
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Antlr3.Runtime.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Newtonsoft.Json.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Owin.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Helpers.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.WebHost.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Mvc.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Optimization.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Providers.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Razor.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\WebGrease.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Antlr3.Runtime.pdb
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\Newtonsoft.Json.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Helpers.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Mvc.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Optimization.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Providers.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Razor.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\System.Web.Http.WebHost.xml
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\obj\Debug\html5up_dopetrope_mvc.csprojResolveAssemblyReference.cache
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\obj\Debug\html5up_dopetrope_mvc.dll
+C:\Users\benson\Google 雲端硬碟\benson.liu@linkchain.tw\html5up-dopetrope-mvc-20140611\html5up-dopetrope-mvc\html5up-dopetrope-mvc\obj\Debug\html5up_dopetrope_mvc.pdb
